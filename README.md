@@ -8,14 +8,13 @@
 ## :file_folder: Aperçu du dataset analysé
 
 
-|    | Date     | Country_Region   |   Province_State |   Difference | Prep_Flow_Runtime    | Latest_Date   | Case_Type   |   Cases |   Lat |   Long |
-|---:|:---------|:-----------------|-----------------:|-------------:|:---------------------|:--------------|:------------|--------:|------:|-------:|
-|  0 | 3/9/2020 | India            |              nan |            0 | 3/24/2020 9:39:03 AM | 3/23/2020     | Deaths      |       0 |    21 |     78 |
-|  1 | 3/8/2020 | India            |              nan |            0 | 3/24/2020 9:39:03 AM | 3/23/2020     | Deaths      |       0 |    21 |     78 |
-|  2 | 3/7/2020 | India            |              nan |            0 | 3/24/2020 9:39:03 AM | 3/23/2020     | Deaths      |       0 |    21 |     78 |
-|  3 | 3/6/2020 | India            |              nan |            0 | 3/24/2020 9:39:03 AM | 3/23/2020     | Deaths      |       0 |    21 |     78 |
-|  4 | 3/5/2020 | India            |              nan |            0 | 3/24/2020 9:39:03 AM | 3/23/2020     | Deaths      |       0 |    21 |     78 |
-
+|    | trans_date_trans_time   | merchant                    | category      |    amt | city                     | state   |     lat |     long |   city_pop | job                               | dob        | trans_num                        |   merch_lat |   merch_long |   is_fraud |
+|---:|:------------------------|:----------------------------|:--------------|-------:|:-------------------------|:--------|--------:|---------:|-----------:|:----------------------------------|:-----------|:---------------------------------|------------:|-------------:|-----------:|
+|  0 | 2019-01-01 00:00:44     | "Heller, Gutmann and Zieme" | grocery_pos   | 107.23 | Orient                   | WA      | 48.8878 | -118.21  |        149 | Special educational needs teacher | 1978-06-21 | 1f76529f8574734946361c461b024d99 |     49.159  |     -118.186 |          0 |
+|  1 | 2019-01-01 00:00:51     | Lind-Buckridge              | entertainment | 220.11 | Malad City               | ID      | 42.1808 | -112.262 |       4154 | Nature conservation officer       | 1962-01-19 | a1a22d70485983eac12b5b88dad1cf95 |     43.1507 |     -112.154 |          0 |
+|  2 | 2019-01-01 00:07:27     | Kiehn Inc                   | grocery_pos   |  96.29 | Grenada                  | CA      | 41.6125 | -122.526 |        589 | Systems analyst                   | 1945-12-21 | 413636e759663f264aae1819a4d4f231 |     41.6575 |     -122.23  |          0 |
+|  3 | 2019-01-01 00:09:03     | Beier-Hyatt                 | shopping_pos  |   7.77 | High Rolls Mountain Park | NM      | 32.9396 | -105.819 |        899 | Naval architect                   | 1967-08-30 | 8a6293af5ed278dea14448ded2685fea |     32.8633 |     -106.52  |          0 |
+|  4 | 2019-01-01 00:21:32     | Bruen-Yost                  | misc_pos      |   6.85 | Freedom                  | WY      | 43.0172 | -111.029 |        471 | "Education officer, museum"       | 1967-08-02 | f3c43d336e92a44fc2fb67058d5949e3 |     43.7537 |     -111.455 |          0 |
 
 
 DATA SET FRAUDE DE CARTE DE CREDIT DANS L'OUEST DES ETATS-UNIS
