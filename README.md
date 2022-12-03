@@ -4,6 +4,23 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdoulAzizBaoula/creditCardFraude/main?labpath=index.ipynb)
 
+
+### Dictionnaire de données
+#### transdatetrans_time	DateHeure de la transaction
+#### marchande	Nom du commerçant
+#### Catégorie	Catégorie de commerçant
+#### amt	Montant de la transaction
+#### ville	Titulaire de la carte de crédit de la ville de
+#### Etat	État du titulaire de la carte de crédit
+#### lat	Latitude Lieu d'achat
+#### long	Longitude Lieu d'achat
+#### city_pop	Population de la ville du titulaire de la carte de crédit
+#### travail	Emploi de titulaire de carte de crédit
+#### date de naissance	Date de naissance du titulaire de la carte de crédit
+#### trans_num	Numéro de transaction
+#### merch_lat	Latitude Emplacement du marchand
+#### merch_long	Longitude de l'emplacement du marchand
+#### est_fraude	Si la transaction est une fraude (1) ou non (0)
  
 ## :file_folder: Aperçu du dataset analysé
 
@@ -16,7 +33,7 @@
 |  3 | 2019-01-01 00:09:03     | Beier-Hyatt                 | shopping_pos  |   7.77 | High Rolls Mountain Park | NM      | 32.9396 | -105.819 |        899 | Naval architect                   | 1967-08-30 | 8a6293af5ed278dea14448ded2685fea |     32.8633 |     -106.52  |          0 |
 |  4 | 2019-01-01 00:21:32     | Bruen-Yost                  | misc_pos      |   6.85 | Freedom                  | WY      | 43.0172 | -111.029 |        471 | "Education officer, museum"       | 1967-08-02 | f3c43d336e92a44fc2fb67058d5949e3 |     43.7537 |     -111.455 |          0 |
 
-
+ 
 DATA SET FRAUDE DE CARTE DE CREDIT DANS L'OUEST DES ETATS-UNIS
 
 #  Conclusion
