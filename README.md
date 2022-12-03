@@ -6,21 +6,21 @@
 
 
 ### Dictionnaire de données
-#### transdatetrans_time	DateHeure de la transaction
-#### marchande	Nom du commerçant
-#### Catégorie	Catégorie de commerçant
-#### amt	Montant de la transaction
-#### ville	Titulaire de la carte de crédit de la ville de
-#### Etat	État du titulaire de la carte de crédit
-#### lat	Latitude Lieu d'achat
-#### long	Longitude Lieu d'achat
-#### city_pop	Population de la ville du titulaire de la carte de crédit
-#### travail	Emploi de titulaire de carte de crédit
-#### date de naissance	Date de naissance du titulaire de la carte de crédit
-#### trans_num	Numéro de transaction
-#### merch_lat	Latitude Emplacement du marchand
-#### merch_long	Longitude de l'emplacement du marchand
-#### est_fraude	Si la transaction est une fraude (1) ou non (0)
+#### transdatetrans_time	: DateHeure de la transaction
+#### marchande	: Nom du commerçant
+#### Catégorie	: Catégorie de commerçant
+#### amt	: Montant de la transaction
+#### ville	: Titulaire de la carte de crédit de la ville de
+#### Etat	: État du titulaire de la carte de crédit
+#### lat	: Latitude Lieu d'achat
+#### long	: Longitude Lieu d'achat
+#### city_pop	: Population de la ville du titulaire de la carte de crédit
+#### travail	: Emploi de titulaire de carte de crédit
+#### date de naissance	: Date de naissance du titulaire de la carte de crédit
+#### trans_num	: Numéro de transaction
+#### merch_lat	: Latitude Emplacement du marchand
+#### merch_long	: Longitude de l'emplacement du marchand
+#### est_fraude	: Si la transaction est une fraude (1) ou non (0)
  
 ## :file_folder: Aperçu du dataset analysé
 
