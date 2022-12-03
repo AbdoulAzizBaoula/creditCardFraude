@@ -1,11 +1,11 @@
-# dataAnalyseProjetBlanc
-PROJET BLANC DATA ANALYSE
+# PROJET ANALYSE DES FRAUDES DE CARTES DE CREDIT
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdoulAzizBaoula/dataAnalyseProjetBlanc/main?labpath=index.ipynb)
+## Cet ensemble de données comprend les transactions par carte de crédit dans l'ouest des États-Unis. Il comprend des informations sur chaque transaction, y compris les détails du client, le commerçant et la catégorie d'achat, et si la transaction était ou non une fraude...
 
-## CECI EST UN MINI PROJET
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdoulAzizBaoula/creditCardFraude/main?labpath=index.ipynb)
 
-## :file_folder: dataset
+ 
+## :file_folder: Aperçu du dataset analysé
 
 
 |    | Date     | Country_Region   |   Province_State |   Difference | Prep_Flow_Runtime    | Latest_Date   | Case_Type   |   Cases |   Lat |   Long |
@@ -18,6 +18,6 @@ PROJET BLANC DATA ANALYSE
 
 
 
-DATA SET COVID 19 DATE 2019 :date:
+DATA SET FRAUDE DE CARTE DE CREDIT DANS L'OUEST DES ETATS-UNIS
 
 #  Conclusion
