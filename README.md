@@ -1,26 +1,26 @@
 # PROJET ANALYSE DES FRAUDES DE CARTES DE CREDIT
 
-## Cet ensemble de données comprend les transactions par carte de crédit dans l'ouest des États-Unis. Il comprend des informations sur chaque transaction, y compris les détails du client, le commerçant et la catégorie d'achat, et si la transaction était ou non une fraude...
+### Cet ensemble de données comprend les transactions par carte de crédit dans l'ouest des États-Unis. Il comprend des informations sur chaque transaction, y compris les détails du client, le commerçant et la catégorie d'achat, et si la transaction était ou non une fraude...
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdoulAzizBaoula/creditCardFraude/main?labpath=index.ipynb)
 
 
-### Dictionnaire de données
+## Dictionnaire de données
 #### transdatetrans_time	: DateHeure de la transaction
-#### marchande	: Nom du commerçant
-#### Catégorie	: Catégorie de commerçant
+#### merchant	: Nom du commerçant
+#### category	: Catégorie de commerçant
 #### amt	: Montant de la transaction
-#### ville	: Titulaire de la carte de crédit de la ville de
-#### Etat	: État du titulaire de la carte de crédit
+#### city	: Titulaire de la carte de crédit de la ville de
+#### state	: État du titulaire de la carte de crédit
 #### lat	: Latitude Lieu d'achat
 #### long	: Longitude Lieu d'achat
 #### city_pop	: Population de la ville du titulaire de la carte de crédit
-#### travail	: Emploi de titulaire de carte de crédit
-#### date de naissance	: Date de naissance du titulaire de la carte de crédit
+#### job	: Emploi de titulaire de carte de crédit
+#### dob	: Date de naissance du titulaire de la carte de crédit
 #### trans_num	: Numéro de transaction
 #### merch_lat	: Latitude Emplacement du marchand
 #### merch_long	: Longitude de l'emplacement du marchand
-#### est_fraude	: Si la transaction est une fraude (1) ou non (0)
+#### is_fraud	: Si la transaction est une fraude (1) ou non (0)
  
 ## :file_folder: Aperçu du dataset analysé
 
@@ -37,3 +37,5 @@
 DATA SET FRAUDE DE CARTE DE CREDIT DANS L'OUEST DES ETATS-UNIS
 
 #  Conclusion
+
+### 
