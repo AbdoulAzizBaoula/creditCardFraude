@@ -1,7 +1,7 @@
 :root {
 
   /*Color palette*/
-  --snow: #fbf5f3ff;            /*letter*/
+  --snow: rgb(10, 10, 10);            /*letter*/
   --fulvous: #e28413ff;         /*title background & link highlight*/
   --oxford-blue: #000022ff;     /*background*/
   --celadon-blue: #407899ff;    /*blue contrast */
@@ -44,7 +44,7 @@ p {
 }
 
 li {font-size: 0.7em;
-  margin: 4% 0;
+  margin: 2% 0;
 }
 li.bkg_B{
   display: inline;
@@ -79,7 +79,7 @@ li.bkg_B{
 .presentation_title {
   grid-area: header;
   display: grid;
-  justify-content: center
+  justify-content: center;
   align-self: center;
   text-align: center;
   border-radius: 5px;
@@ -115,7 +115,7 @@ li.bkg_B{
   border-radius: 10px;
 }
 table.kms td {
-background-color: #000022ff;
+background-color: rgb(15, 15, 197);
 }
 
 table.kms td:hover {
