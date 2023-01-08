@@ -34,8 +34,3 @@
 |  4 | 2019-01-01 00:21:32     | Bruen-Yost                  | misc_pos      |   6.85 | Freedom                  | WY      | 43.0172 | -111.029 |        471 | "Education officer, museum"       | 1967-08-02 | f3c43d336e92a44fc2fb67058d5949e3 |     43.7537 |     -111.455 |          0 |
 
  
-DATA SET FRAUDE DE CARTE DE CREDIT DANS L'OUEST DES ETATS-UNIS
-
-#  Conclusion
-
-### 
